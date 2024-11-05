@@ -7,4 +7,5 @@ To play, open the file "TextBasedGame.py" in PyCharm, and click the play button 
 
 ## Instructions
 It's your roommate's birthday! Collect all of the birthday supplies without alerting her to the surprise to beat the game. Below is a map that will help you navigate the rooms.
+
 ![Game Map](https://github.com/manyLizards/Surprise-Party/blob/main/Images/Surprise-Party-Map.jpg)
