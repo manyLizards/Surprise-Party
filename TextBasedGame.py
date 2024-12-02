@@ -69,6 +69,7 @@ def main():
                 print('Added {} to your inventory'.format(item))
             else:
                 print('You already have this item.')
+            del rooms[current_room]['item']
 
         # Check if the command is a valid direction in the current room
         elif command in rooms[current_room]:
